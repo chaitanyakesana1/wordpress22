@@ -20,7 +20,7 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'jahnavi' );
+define( 'DB_NAME', 'balayya' );
 
 /** Database username */
 define( 'DB_USER', 'admin' );
@@ -29,7 +29,7 @@ define( 'DB_USER', 'admin' );
 define( 'DB_PASSWORD', 'admin123' );
 
 /** Database hostname */
-define( 'DB_HOST', 'jahnavi.cpc8fmsxmqfg.us-east-2.rds.amazonaws.com' );
+define( 'DB_HOST', 'database-1.cpc8fmsxmqfg.us-east-2.rds.amazonaws.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
